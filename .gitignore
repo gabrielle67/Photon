@@ -1,0 +1,7 @@
+# binaries
+**/bin/
+bin-int
+
+# Visual Studio Files
+.vs/
+*.user
